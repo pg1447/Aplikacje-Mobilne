@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243649317307",
+    "project_id": "citiesonmap-fd5b1",
+    "storage_bucket": "citiesonmap-fd5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243649317307:android:c78b4614bd86dd7039dc9e",
+        "android_client_info": {
+          "package_name": "pl.app.citiesonmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243649317307-ec7hbhndal1apb44o728i5hk6s3v9u8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiclri6fhfc7FeFBCpVUr0y1mY5qP3lhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243649317307-ec7hbhndal1apb44o728i5hk6s3v9u8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myDict">
+        <item> computer </item>
+        <item> game </item>
+        <item> frog </item>
+        <item> eye </item>
+        <item> pencil </item>
+        <item> car </item>
+        <item> tower </item>
+        <item> butter </item>
+        <item> jungle</item>
+        <item> thread </item>
+        <item> tree </item>
+        <item> castle </item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Galeria</string>
+    <string name="Image_name">Image_name</string>
+    <string name="full_view">Full View</string>
+    <string name="close">Close</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+</resources>

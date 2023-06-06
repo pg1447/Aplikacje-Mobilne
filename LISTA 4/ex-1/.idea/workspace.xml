@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37586143-055a-4183-aba8-b9ee50b208c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tRcXmIRvUTlsQHfmTP3cCZ1o14" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/Lista4" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ex-1" type="JetRunConfigurationType">
+      <module name="ex-1" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37586143-055a-4183-aba8-b9ee50b208c7" name="Default Changelist" comment="" />
+      <created>1622735384131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622735384131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1557" y="-16" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622735487932">
+      <screen x="-2100" y="-155" width="1680" height="1010" />
+    </state>
+    <state x="-1557" y="-16" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-2100.-155.1680.1010@-2100.-155.1680.1010" timestamp="1622735487932" />
+    <state x="-1282" y="131" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622735697708">
+      <screen x="-2100" y="-155" width="1680" height="1010" />
+    </state>
+    <state x="-1282" y="131" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/-2100.-155.1680.1010@-2100.-155.1680.1010" timestamp="1622735697708" />
+    <state x="-1479" y="106" key="FileChooserDialogImpl" timestamp="1622740658694">
+      <screen x="-2100" y="-155" width="1680" height="1010" />
+    </state>
+    <state x="-1479" y="106" key="FileChooserDialogImpl/0.0.1536.824/-2100.-155.1680.1010@-2100.-155.1680.1010" timestamp="1622740658694" />
+  </component>
+</project>
